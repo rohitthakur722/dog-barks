@@ -1,0 +1,43 @@
+body {
+      font-family: Arial;
+      background-color: purple;
+      display:flex;
+      justify-content: center;
+      height: 800px;
+      align-items: center;
+
+    }
+
+     div{
+      background:yellow;
+      padding: 30px;
+      border-radius: 30px;
+      width: 400px;
+      text-align: center;
+    }
+    #length{
+
+      width: 190px;
+      padding: 11px;
+      margin-top: 10px;
+      margin-left:9px;
+
+    }
+    #includeDigits{
+      
+        margin-top:20px;
+    }
+
+    
+    
+    button {
+      background-color:red;
+      color: white;
+      border:solid;
+      border-color:blue;
+      
+      padding: 13px;
+      border-radius: 13px;
+      cursor: pointer;
+      
+    }
